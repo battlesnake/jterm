@@ -1,5 +1,5 @@
 const _ = require('lodash');
-const EventEmitter = require('events').EventEmitter;
+const EventEmitter = require('eventemitter');
 
 module.exports = Terminal;
 

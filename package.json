@@ -17,6 +17,7 @@
   },
   "homepage": "https://github.com/battlesnake/jterm#readme",
   "dependencies": {
+    "eventemitter": "github:battlesnake/eventemitter",
     "lodash": "^4.16.1"
   }
 }
